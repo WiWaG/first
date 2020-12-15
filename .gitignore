@@ -3,3 +3,6 @@ config.php
 .vscode
 .env
 .htaccess
+# prepare for flight:{
+#            'Ready for takeoff' ==> 'Lets touch some clouds'
+#            }
