@@ -1,1 +1,1 @@
-**Welcome to my "first" individual php project @ codeGorilla**
+*Welcome to my "first" individual php project @ codeGorilla*
